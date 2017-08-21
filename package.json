@@ -1,0 +1,25 @@
+{
+  "name": "discord-rolebot",
+  "version": "1.0.0",
+  "description": "A role assignment and removal bot for Discord powered by Discord.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zee1234/discord-rolebot.git"
+  },
+  "keywords": [
+    "Discordjs",
+    "Discord",
+    "Rolebot",
+    "Bot"
+  ],
+  "author": "Zee1234",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zee1234/discord-rolebot/issues"
+  },
+  "homepage": "https://github.com/Zee1234/discord-rolebot#readme"
+}
